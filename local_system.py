@@ -1,0 +1,1 @@
+print("Adding new file to the local repository by intialising file by git init")
